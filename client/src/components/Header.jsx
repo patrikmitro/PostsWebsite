@@ -76,7 +76,7 @@ const Header = () => {
               </>
             ) : (
               <Fragment>
-                <Link to="/taso s">
+                <Link to="/">
                   <ButtonText color="white">{authState.username}</ButtonText>
                 </Link>
                 <Link to="/">
