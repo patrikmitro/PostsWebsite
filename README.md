@@ -1,3 +1,3 @@
 # PostsWebsite
 
-A website where you can post, comment on a post and create an account.
+A website made in React and Express where, you can post, comment, and create an account.
